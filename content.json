@@ -1,0 +1,75 @@
+{
+"content":[
+{
+    "judul":"Nascar",
+    "img":"img/nascar.jpg",
+	"posisi":"view.html?id=0"
+},
+{
+    "judul":"MLB",
+	"img":"img/mlb.jpg",
+	"posisi":"view.html?id=1"
+
+},
+{
+    "judul":"Moto GP",
+	"img":"img/motogp.jpg",
+	"posisi":"view.html?id=2"
+
+},
+{
+    "judul":"NBA",
+	"img":"img/nba.jpg",
+	"posisi":"view.html?id=3"
+
+},
+{
+    "judul":"NCAAM",
+	"img":"img/ncaam.jpg",
+	"posisi":"view.html?id=4"
+
+},
+{
+    "judul":"NCAAF",
+	"img":"img/ncaaf.jpg",
+	"posisi":"view.html?id=5"
+
+},
+{
+    "judul":"NFL",
+	"img":"img/nfl.jpg",
+	"posisi":"view.html?id=6"
+
+},
+{
+    "judul":"NHL",
+	"img":"img/nhl.jpg",
+	"posisi":"view.html?id=7"
+
+},
+{
+    "judul":"SOCCER",
+	"img":"img/soccer.jpg",
+	"posisi":"view.html?id=8"
+
+},
+{
+    "judul":"TENNIS",
+	"img":"img/tennis.jpg",
+	"posisi":"view.html?id=9"
+
+},
+{
+    "judul":"UFC",
+	"img":"img/ufc.jpg",
+	"posisi":"view.html?id=10"
+
+},
+{
+    "judul":"VOLLEYBALL",
+	"img":"img/volleyball.jpg",
+	"posisi":"view.html?id=11"
+
+}
+]
+}
